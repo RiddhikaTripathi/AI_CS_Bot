@@ -9,7 +9,7 @@ This project demonstrates how AI can automate support interactions with real-tim
 - 💬 Interactive chat interface built using React + Tailwind CSS  
 - 🧠 Contextual memory to maintain previous chat history  
 - ⚙️ Supabase backend for message & session tracking  
-- 🤖 AI-driven replies generated using LLM (Bolt prompt)  
+- 🤖 AI-driven replies generated using LLM  
 - ⚠️ Escalation simulation for queries that cannot be answered  
 - 📊 Structured and maintainable codebase  
 
@@ -22,9 +22,9 @@ This project demonstrates how AI can automate support interactions with real-tim
 | **Frontend** | React + TypeScript + Vite |
 | **Styling** | Tailwind CSS |
 | **Backend** | Supabase (Edge Functions + Database) |
-| **AI Integration** | LLM via `.bolt/prompt` |
+| **AI Integration** | LLM |
 | **Build Tool** | Vite |
-| **Deployment Options** | Bolt, Supabase Hosting, or Vercel |
+| **Deployment Options** | Supabase Hosting, or Vercel |
 
 ---
 
